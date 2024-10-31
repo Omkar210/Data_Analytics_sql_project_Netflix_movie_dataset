@@ -14,6 +14,7 @@ The Netflix dataset insights provide a comprehensive view of the platform’s co
 - Recognize popular directors, actors, and genres to promote key titles and enhance recommendations.
 
 ## Schema
+**Objective:** Creating Table with listed Attribute and before that checking if Table is already exist or not and droping that Table.
 
 ```sql
 DROP TABLE netflix;
