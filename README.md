@@ -35,12 +35,15 @@ CREATE TABLE netflix (
 ```
 
 ## Data Insight 
+**Objective:** Getting Insight of Data.
 ```sql
 SELECT * FROM netflix
 LIMIT 10;
 ```
 ## Business Problem and their Solution 
 ### 1. Count the number of Movies vs TV Shows
+**Objective:** Counting the Total Number of Movies and TV Shows.
+
 ```sql
 SELECT 
 	type,
@@ -51,6 +54,8 @@ GROUP BY type;
 
 
 ### 2. Find the most common rating for movies and TV shows
+**Objective:** Finding the most common rating given to the Movies and TV Shows.
+
 ```sql
 SELECT
 	type,
@@ -73,6 +78,8 @@ WHERE
 
 
 ### 3. List all movies released in a specific year (e.g., 2020)
+**Objective:** Identifing all Movies that are release in specific year.
+
 ```sql
 SELECT * FROM netflix 
 WHERE 
@@ -82,6 +89,8 @@ WHERE
 
 
 ### 4. Find the top 5 countries with the most content on Netflix
+**Objective:** Finding Top 5 countries where most of the content of Netflix is Released.
+
 ```sql
 SELECT 
 	UNNEST(STRING_TO_ARRAY(country, ',')) as listed_country,
@@ -95,6 +104,8 @@ LIMIT 5
 
 
 ### 5. Identify the longest movie
+**Objective:** 
+
 ```sql
 SELECT * FROM netflix 
 WHERE 
