@@ -217,10 +217,10 @@ GROUP BY 1
 
 ## Conclusion 
 
--Content Mix: Netflix maintains a strategic balance between Movies and TV Shows, appealing to varied audience preferences.
--Genre Focus: The platform prioritizes popular genres to cater to a diverse and global user base.
--Content Growth: Netflix has shown consistent growth in its content library, expanding significantly over the years.
--International Content: There is a strong emphasis on acquiring and promoting international and regional content to appeal to global audiences.
--Viewer Preferences: Duration and rating patterns indicate a strategy to engage a wide range of viewers, from family-friendly content to mature-rated series.
--Influential Creators: Netflix invests in top directors and actors, using their influence to attract and retain viewers.
--Adaptive Strategy: The content catalog is continuously updated to meet changing audience demands and trends.
+- Content Mix: Netflix maintains a strategic balance between Movies and TV Shows, appealing to varied audience preferences.
+- Genre Focus: The platform prioritizes popular genres to cater to a diverse and global user base.
+- Content Growth: Netflix has shown consistent growth in its content library, expanding significantly over the years.
+- International Content: There is a strong emphasis on acquiring and promoting international and regional content to appeal to global audiences.
+- Viewer Preferences: Duration and rating patterns indicate a strategy to engage a wide range of viewers, from family-friendly content to mature-rated series.
+- Influential Creators: Netflix invests in top directors and actors, using their influence to attract and retain viewers.
+- Adaptive Strategy: The content catalog is continuously updated to meet changing audience demands and trends.
